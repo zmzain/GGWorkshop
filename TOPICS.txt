@@ -1,0 +1,1 @@
+TOPICS1. How to install Git2. Difference between Git and GitHub3. Initiate a local git repo, create first commit, add a remote and push to GitHub4. Create branches from main/master5. Keep a branch up to date with main (git pull origin main)6. Create a README & gitignore7. Adding collaborators to a project8. Pull requests and issues
